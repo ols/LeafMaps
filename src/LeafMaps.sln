@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeafMaps", "LeafMaps\LeafMaps.csproj", "{011BB44C-36CF-43BF-90C1-010BE2A6DB4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeafMaps", "LeafMaps\LeafMaps.csproj", "{61AE1140-EBDB-4F2C-9A82-9B03466D220B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{011BB44C-36CF-43BF-90C1-010BE2A6DB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{011BB44C-36CF-43BF-90C1-010BE2A6DB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{011BB44C-36CF-43BF-90C1-010BE2A6DB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{011BB44C-36CF-43BF-90C1-010BE2A6DB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AE1140-EBDB-4F2C-9A82-9B03466D220B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AE1140-EBDB-4F2C-9A82-9B03466D220B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AE1140-EBDB-4F2C-9A82-9B03466D220B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AE1140-EBDB-4F2C-9A82-9B03466D220B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

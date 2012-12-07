@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TufaMaps")]
+[assembly: AssemblyTitle("LeafMaps")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TufaMaps")]
+[assembly: AssemblyProduct("LeafMaps")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f8eeb6cc-1e82-4c96-8fd7-526222b466c2")]
+[assembly: Guid("cef2ecd9-0d14-43ae-98f0-db6936f1f46e")]
 
 // Version information for an assembly consists of the following four values:
 //
